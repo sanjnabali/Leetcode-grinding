@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/sanjnabali/Leetcode-grinding/tree/master/0066-plus-one) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sanjnabali/Leetcode-grinding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0792-binary-search](https://github.com/sanjnabali/Leetcode-grinding/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/sanjnabali/Leetcode-grinding/tree/master/1019-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sanjnabali/Leetcode-grinding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/sanjnabali/Leetcode-grinding/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
