@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/sanjnabali/Leetcode-grinding/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sanjnabali/Leetcode-grinding/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/sanjnabali/Leetcode-grinding/tree/master/0367-valid-perfect-square) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sanjnabali/Leetcode-grinding/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/sanjnabali/Leetcode-grinding/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/sanjnabali/Leetcode-grinding/tree/master/0162-find-peak-element) |
+| [0367-valid-perfect-square](https://github.com/sanjnabali/Leetcode-grinding/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/sanjnabali/Leetcode-grinding/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sanjnabali/Leetcode-grinding/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/sanjnabali/Leetcode-grinding/tree/master/1646-kth-missing-positive-number) |
