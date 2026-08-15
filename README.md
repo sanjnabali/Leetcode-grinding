@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sanjnabali/Leetcode-grinding/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/sanjnabali/Leetcode-grinding/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sanjnabali/Leetcode-grinding/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/sanjnabali/Leetcode-grinding/tree/master/0367-valid-perfect-square) |
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/sanjnabali/Leetcode-grinding/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/sanjnabali/Leetcode-grinding/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sanjnabali/Leetcode-grinding/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sanjnabali/Leetcode-grinding/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sanjnabali/Leetcode-grinding/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
